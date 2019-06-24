@@ -27,8 +27,8 @@
 	height:356px;
 	float:left;
 	margin-top:45px;
-	/*background-color:#FCEE21;
-	*/
+	background-color:#FCEE21;
+	
 	margin-right:18px;
 	
 
@@ -40,6 +40,8 @@
 	height:356px;
 	float:left;
 	margin-top:45px;
+	background-color:#FCEE21;
+	
 	
 
 
@@ -50,12 +52,15 @@
 	clear:both;
 	
 
+	
+
 
 }
 
 .article-p1{
 	font-size:14pt;
 	float:left;
+	display:inline-block;
 	
 
 	}
@@ -63,6 +68,7 @@
 .article-p2{
 	font-size:14pt;
 	float:right;
+	display:inline-block;
 	
 	
 
