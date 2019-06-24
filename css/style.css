@@ -11,4 +11,14 @@
 	float:right;
 	font-size:48pt;
 	margin-right:45px;
+
+}
+/*.navigation-a{*/
+	/*color:#fff;*/
+/*}*/
+.container::after{
+	content: ;
+	clear:both;
+	display:block;
+
 }
