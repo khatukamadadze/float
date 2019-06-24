@@ -1,0 +1,14 @@
+.container{
+	width:1170;
+	margin:0 auto;
+}
+.logo{
+	width:200px;
+	float:right;
+}
+.navigation-li{
+	display:inline-block;
+	float:right;
+	font-size:48pt;
+	margin-right:45px;
+}
